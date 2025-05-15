@@ -1,0 +1,17 @@
+{
+    "jefe_operaciones": {
+        "cargo": "Jefe de Operaciones",
+        "cargo_abreviado": "JO",
+        "nombres": "Eddy Eder",
+        "apellidos": "Sucapuca Cruz",
+        "dni": 70004725,
+        "titulo": "Bach. Ing."
+    },
+    "gerente": {
+        "cargo": "Gerente General",
+        "nombres": "Tomas Pedro",
+        "apellidos": "Samayani Vilcahuaman",
+        "dni": "",
+        "titulo": "Econ."
+    }
+}
