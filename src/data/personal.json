@@ -1,6 +1,6 @@
 {
     "jefe_operaciones": {
-        "cargo": "Jefe de Operaciones",
+        "cargo": "Jefe de Operaciones del IVP - Caylloma",
         "cargo_abreviado": "JO",
         "nombres": "Eddy Eder",
         "apellidos": "Sucapuca Cruz",
@@ -8,7 +8,7 @@
         "titulo": "Bach. Ing."
     },
     "gerente": {
-        "cargo": "Gerente General",
+        "cargo": "Gerente General del IVP - Caylloma",
         "nombres": "Tomas Pedro",
         "apellidos": "Samayani Vilcahuaman",
         "dni": "",

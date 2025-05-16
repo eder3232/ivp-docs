@@ -1,0 +1,82 @@
+{
+    "name": "Contratación del Servicio de Elaboración de Expedientes Técnicos para el Instituto Vial Provincial Caylloma",
+    "objeto_contratacion": "Elaborar cinco (05) expedientes técnicos de actividades complementarias para mantenimiento vial provincial, conforme al contenido mínimo establecido en el Anexo XI de la Resolución Directoral N.º 0014-2025-MTC/21.",
+    "antecedentes": "El Instituto Vial Provincial Caylloma es responsable de gestionar el mantenimiento de la red vial vecinal de la provincia. En cumplimiento de esta función, se requiere sustentar técnicamente diversas actividades complementarias mediante la elaboración de expedientes técnicos, lo que constituye un requisito fundamental para su ejecución y financiamiento. Por ello, se ha previsto la contratación de un servicio especializado para la elaboración de cinco (05) expedientes técnicos.",
+    "justificacion": "La contratación se justifica por la necesidad institucional de contar con expedientes técnicos debidamente formulados para sustentar actividades complementarias de mantenimiento vial, de acuerdo con la normativa vigente. La elaboración de estos documentos permitirá ejecutar intervenciones viales programadas, mejorando la transitabilidad en zonas rurales.",
+    "finalidad_publica": "Garantizar la ejecución oportuna de actividades complementarias de mantenimiento vial mediante la formulación de cinco (05) expedientes técnicos que respalden técnicamente las intervenciones en la infraestructura vial rural de la provincia de Caylloma.",
+    "alcance_servicio": [
+        "Elaboración integral de cinco (05) expedientes técnicos de actividades complementarias de mantenimiento rutinario, conforme al contenido mínimo del Anexo XI de la Resolución Directoral N.º 0014-2025-MTC/21.",
+        "Cada expediente incluirá: memoria descriptiva, planilla de metrados, presupuesto, análisis de precios unitarios, cronograma de ejecución, planos de ubicación y plano clave, panel fotográfico georreferenciado, y demás componentes requeridos.",
+        "El proveedor deberá realizar el levantamiento de información técnica de campo y gabinete, incluyendo fotografías georreferenciadas (mínimo 4 por kilómetro).",
+        "El servicio será coordinado con el área técnica del Instituto Vial Provincial Caylloma para asegurar la adecuación de los productos a las necesidades institucionales."
+    ],
+    "plazo_ejecucion": {
+        "duracion": "13 días calendario",
+        "inicio": "A partir del día siguiente de la notificación de la orden de servicio.",
+        "fecha_limite_entrega": "30 de mayo de 2025 (último día laborable del mes)"
+    },
+    "lugar_ejecucion": "El servicio se desarrollará de manera combinada entre oficina y campo, dentro del ámbito del Instituto Vial Provincial Caylloma. La entrega de los productos será coordinada directamente con el Jefe de Operaciones de la entidad.",
+    "requisitos_proveedor": {
+        "tipo": "Persona natural",
+        "habilitacion_osce": "Debe estar inscrita y habilitada como proveedor en el Registro Nacional de Proveedores del OSCE.",
+        "ruc": "Debe contar con RUC activo y habido.",
+        "formacion": "Grado mínimo de Bachiller en Ingeniería Civil.",
+        "experiencia": "Mínimo 1 año de experiencia en cualquier área de la ingeniería civil."
+    },
+    "supervision_conformidad": {
+        "responsable": "Jefe de Operaciones del Instituto Vial Provincial Caylloma",
+        "descripcion": "La supervisión y verificación del cumplimiento del servicio estará a cargo del Jefe de Operaciones. La conformidad será emitida en función de la entrega completa y adecuada de los cinco expedientes técnicos. El proveedor deberá presentar un informe final que será evaluado en un plazo máximo de diez (10) días hábiles.",
+        "observacion": "La evaluación técnica se enfocará en la calidad, consistencia y cumplimiento de los entregables establecidos."
+    },
+    "valor_referencial": {
+        "monto": "S/ 2500.00 (dos mil quinientos con 00/100 soles)",
+        "observaciones": "El valor referencial se ha estimado sobre la base de precios de mercado para servicios similares."
+    },
+    "forma_pago": {
+        "modalidad": "Una sola armada",
+        "monto": "S/ 2500.00 (dos mil quinientos con 00/100 soles)",
+        "condiciones": [
+            "El pago se realizará al finalizar el servicio, previa presentación del informe final e ingreso de los cinco expedientes técnicos completos.",
+            "El informe final y los expedientes deberán ser aprobados por el Jefe de Operaciones o por quien haga sus veces.",
+            "El proveedor deberá emitir un recibo por honorarios a nombre del Instituto Vial Provincial Caylloma.",
+            "Si corresponde, deberá adjuntar la constancia de suspensión del impuesto a la renta emitida por SUNAT.",
+            "El proveedor deberá estar hábil en el RUC al momento de emitir el recibo y recibir el pago."
+        ]
+    },
+    "condiciones_servicio": {
+        "obligaciones_contratista": [
+            "Elaborar y entregar cinco (05) expedientes técnicos completos, según los alcances definidos.",
+            "Realizar el levantamiento de información técnica de campo y gabinete necesario para sustentar técnicamente los documentos.",
+            "Presentar un informe final del servicio prestado, que incluya un resumen de las actividades realizadas.",
+            "Emitir recibo por honorarios conforme a la normativa vigente y presentar los documentos tributarios correspondientes.",
+            "Mantener confidencialidad sobre la información proporcionada por el Instituto durante la ejecución del servicio."
+        ],
+        "prohibiciones": [
+            "No se permite delegar total ni parcialmente el servicio sin autorización expresa de la entidad contratante."
+        ],
+        "causales_resolucion": [
+            "Incumplimiento injustificado de las actividades y entregables establecidos.",
+            "No presentación del informe final o expedientes en el plazo estipulado.",
+            "Entrega de información falsa o documentos adulterados.",
+            "Abandono del servicio sin justificación."
+        ]
+    },
+    "penalidades": {
+        "descripcion": "En caso de incumplimiento en la entrega de los productos finales, se aplicará una penalidad por mora.",
+        "porcentaje": "0.10% del monto total del servicio por cada día calendario de retraso.",
+        "limite": "La penalidad no podrá exceder el 10% del monto total contratado.",
+        "condiciones": [
+            "El retraso se contará desde el día siguiente del vencimiento del plazo establecido.",
+            "La aplicación de penalidades no impide resolver el contrato si el incumplimiento afecta el objeto del servicio."
+        ]
+    },
+    "garantia": {
+        "descripcion": "El proveedor será responsable por cualquier error, omisión o deficiencia técnica en los productos entregados.",
+        "plazo": "1 año contado desde la emisión de la conformidad del servicio.",
+        "condiciones": [
+            "Se deberá subsanar cualquier observación o deficiencia sin costo adicional para la entidad.",
+            "El plazo de subsanación será establecido por el Jefe de Operaciones según la complejidad del caso.",
+            "Esta garantía no implica relación laboral entre el proveedor y la entidad contratante."
+        ]
+    }
+}
