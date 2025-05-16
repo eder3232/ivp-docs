@@ -1,8 +1,8 @@
-#import "../config/styles.typ"
+#import "../../../config/styles.typ"
 
-#let entidad = json("../../data/entidad.json")
-#let documento = json("../config/document.json")
-#let personal = json("../../data/personal.json")
+#let entidad = json("../../../../data/entidad.json")
+#let documento = json("../../../config/document.json")
+#let personal = json("../../../../data/personal.json")
 
 #let entidad_siglas = entidad.siglas
 
@@ -37,18 +37,6 @@
 
 #let full_date = padDigits(date_day, 2) + "/" + padDigits(date_month, 2) + "/" + str(date_year)
 
-//INICIA EL DOCUMENTO
-// ENCABEZADO
-// #set page(
-//   header: [
-//     #figure(
-//       image("../../assets/ivp.png", width: 50pt),
-//     )
-//     #text(size: 14pt)[Instituto Vial Provincial Caylloma] \
-//     #text(size: 9pt)[Año de la Recuperación y Consolidación de la Economía Peruana]
-//   ]
-
-// )
 #set page(
   margin: (
     top: 3.5cm,
@@ -60,11 +48,11 @@
     #grid(
       columns: (1fr, 3fr, 1fr),
       align: (horizon, horizon + center, horizon),
-      [#figure(image("../../assets/ivp-caylloma.png", width: 50pt))],
+      [#figure(image("../../../../assets/ivp-jo.png", width: 50pt))],
       [#text(
           size: 14pt,
         )[Instituto Vial Provincial Caylloma \ #text(size: 9pt)[Año de la Recuperación y Consolidación de la Economía Peruana]]],
-      [#figure(image("../../assets/mpcaylloma.jpeg", width: 50pt))],
+      [#figure(image("../../../../assets/mpcaylloma.jpeg", width: 50pt))],
     )
   ],
 )
@@ -121,36 +109,30 @@ Por intermedio del presente documento, solicito a la Gerencia General la aprobac
   // Encabezados
   [ITEM], [DESCRIPCIÓN], [UND], [CANT],
   // Filas de datos
-  [01], [PAPEL BOND A4 75 G – BLANCO], [MILLAR], [20],
-  [02], [ENGRAMPADOR X 25 HOJAS], [UNIDAD], [2],
-  [03], [PERFORADOR], [UNIDAD], [2],
-  [04], [ARCHIVADOR LOMO ANCHO TAMAÑO OFICIO – NEGRO], [UNIDAD], [20],
-  [05], [FOLDER DE MANILA – A4], [UNIDAD], [50],
-  [06], [LAPICERO TINTA SECA (ROJO)], [UNIDAD], [12],
-  [07], [LAPICERO TINTA SECA (NEGRO)], [UNIDAD], [12],
-  [08], [LAPICERO TINTA SECA (AZUL)], [UNIDAD], [24],
-  [09], [LAPICERO TINTA LÍQUIDA (AZUL)], [UNIDAD], [12],
-  [10], [LÁPIZ CORRECTOR], [UNIDAD], [06],
-  [11], [MARCADOR INDELEBLE], [UNIDAD], [06],
-  [12], [TINTA PARA IMPRESORA EPSON L3250 – NEGRO], [UNIDAD], [5],
-  [13], [TINTA PARA IMPRESORA EPSON L3250 – MAGENTA], [UNIDAD], [2],
-  [14], [TINTA PARA IMPRESORA EPSON L3250 – YELLOW], [UNIDAD], [2],
-  [15], [TINTA PARA IMPRESORA EPSON L3250 – CYAN], [UNIDAD], [2],
-  [16], [CINTA CORRECTORA RETRÁCTIL], [UNIDAD], [5],
-  [17], [PLUMÓN RESALTADOR PUNTA GRUESA], [UNIDAD], [5],
-  [18], [PAPEL LUSTRE COLOR PLOMO], [UNIDAD], [20],
-  [19], [CINTA ADHESIVA ¾ X 36 YDS], [UNIDAD], [5],
-  [20], [USB – 16 GB], [UNIDAD], [02],
-  [21], [DISCO DURO – 1 TB], [UNIDAD], [01],
-  [22], [PILA DOBLE A (AA) ALCALINA], [UNIDAD], [12],
-  [23], [FRANELAS DE LIMPIEZA], [UNIDAD], [12],
-  [24], [LIMPIADOR DESINFECTANTE], [UNIDAD], [04],
-  [25], [AMBIENTADOR], [UNIDAD], [04],
-  [26], [TABLERO ACRÍLICO OFICIO], [UNIDAD], [04],
-  [27], [PORTADOCUMENTOS], [UNIDAD], [04],
-  [28], [CLIPS DE COLORES (CAJA 100 UNIDADES)], [CAJA], [06],
-  [29], [BANDEJA ORGANIZADORA DE ESCRITORIO TIPO TORRE], [UNIDAD], [02],
-  [30], [NOTAS ADHESIVAS TIPO POST-IT (75×75 MM, COLORES SURTIDOS) PAQUETE X 12], [PAQUETE], [06],
+  [01], [PAPEL BOND A4 75 G - BLANCO], [MILLAR], [20],
+  [02], [PERFORADOR], [UNIDAD], [2],
+  [03], [ARCHIVADOR LOMO ANCHO TAMAÑO OFICIO - NEGRO], [UNIDAD], [20],
+  [04], [LAPICERO TINTA SECA (ROJO)], [UNIDAD], [12],
+  [05], [LAPICERO TINTA SECA (NEGRO)], [UNIDAD], [12],
+  [06], [LAPICERO TINTA SECA (AZUL)], [UNIDAD], [24],
+  [07], [LAPICERO TINTA LÍQUIDA (AZUL)], [UNIDAD], [6],
+  [08], [LÁPIZ CORRECTOR], [UNIDAD], [06],
+  [09], [MARCADOR INDELEBLE], [UNIDAD], [06],
+  [10], [TINTA PARA IMPRESORA EPSON L3250 - NEGRO], [UNIDAD], [3],
+  [11], [TINTA PARA IMPRESORA EPSON L3250 - MAGENTA], [UNIDAD], [1],
+  [12], [TINTA PARA IMPRESORA EPSON L3250 - YELLOW], [UNIDAD], [1],
+  [13], [TINTA PARA IMPRESORA EPSON L3250 - CYAN], [UNIDAD], [1],
+  [14], [CINTA CORRECTORA RETRÁCTIL], [UNIDAD], [5],
+  [15], [PLUMÓN RESALTADOR PUNTA GRUESA], [UNIDAD], [5],
+  [16], [PAPEL LUSTRE COLOR PLOMO], [UNIDAD], [20],
+  [17], [CINTA ADHESIVA ¾ X 36 YDS], [UNIDAD], [5],
+  [18], [USB - 16 GB], [UNIDAD], [02],
+  [19], [DISCO DURO - 1 TB], [UNIDAD], [01],
+  [20], [PILA DOBLE A (AA) ALCALINA], [UNIDAD], [12],
+  [21], [TABLERO ACRÍLICO OFICIO], [UNIDAD], [02],
+  [22], [PORTADOCUMENTOS], [UNIDAD], [02],
+  [23], [BANDEJA ORGANIZADORA DE ESCRITORIO TIPO TORRE], [UNIDAD], [01],
+  [24], [NOTAS ADHESIVAS TIPO POST-IT (75x75 MM, COLORES SURTIDOS) PAQUETE X 12], [PAQUETE], [01],
 )
 
 == Justificación del Requerimiento

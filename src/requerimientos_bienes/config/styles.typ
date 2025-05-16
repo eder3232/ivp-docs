@@ -3,9 +3,6 @@
 
 // Centrar y aumentar tamaño + peso a los H1
 #show heading.where(level: 1): it => [
-  #set align(center)                            // centrar
-  #set text(size: 24pt, weight: "bold")         // tamaño y negrita
-  #it.body                                       // el propio texto del título
+  #set align(center) // centrar
+  #set text(size: 24pt, weight: "bold") // tamaño y negrita
 ]
-
-// (Puedes añadir más reglas para h2, tables, etc.)
