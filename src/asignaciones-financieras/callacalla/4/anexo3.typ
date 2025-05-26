@@ -481,7 +481,6 @@ A continuación, se presenta el resumen de las actividades correspondientes al m
 
 #aspectoEconómico.at(3).value.
 
-
 == #data.at(4).label //aspecto administrativo
 
 === #data.at(4).value.at(0).label // descripcion de la situacion de supervision
@@ -515,16 +514,16 @@ Continuar con la ejecución conforme al cronograma aprobado, asegurando la calid
   columns: (1fr, 1fr),
   align: (horizon + center, horizon + center),
   gutter: 5mm,
-  figure(image("./images/supervision/before.jpeg", width: 100%), caption: [Antes]),
-  figure(image("./images/supervision/after.jpeg", width: 100%), caption: [Despues]),
+  figure(image("./images/supervision/before.png", width: 100%), caption: [Antes]),
+  figure(image("./images/supervision/after.png", width: 100%), caption: [Despues]),
 )
 
 #grid(
   columns: (1fr, 1fr),
   align: (horizon + center, horizon + center),
   gutter: 5mm,
-  figure(image("./images/supervision/during1.jpeg", width: 100%), caption: [Durante]),
-  figure(image("./images/supervision/during2.jpeg", width: 100%), caption: [Durante]),
+  figure(image("./images/supervision/during1.png", width: 100%), caption: [Durante]),
+  figure(image("./images/supervision/during2.png", width: 100%), caption: [Durante]),
 )
 
 === #data.at(5).value.at(1).label // actividades destacadas del supervisor
