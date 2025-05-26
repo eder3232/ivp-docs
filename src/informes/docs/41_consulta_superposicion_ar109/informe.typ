@@ -71,11 +71,14 @@
 
 #set par(justify: true)
 
-#set heading(
-  numbering: (..it) => if it.pos().len() <= 1 { none } else {
-    numbering("I.1.", ..it.pos().slice(1))
-  },
-)
+// #set heading(
+//   numbering: (..it) => if it.pos().len() <= 1 { none } else {
+//     numbering("I.1.", ..it.pos().slice(1))
+//   },
+// )
+
+#show heading.where(level: 1): set heading(numbering: none)
+#set heading(numbering: (_, ..nums) => numbering("I.1", ..nums))
 
 // #set align(center)
 = #documento.type N.º #(numero_documento)-#(date_year)-#upper(entidad_siglas)-#emisor_abreviated
