@@ -1,0 +1,4 @@
+Falta personal del contratista, nombre,sexo,edad, grado de instruccion y  cantidad de hijos
+
+Su jefe de mantenimiento tiene codigo cip?, que numero es, cual es su dni
+
