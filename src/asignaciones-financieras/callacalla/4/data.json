@@ -386,7 +386,7 @@
                     {
                         "key": "avance_ejecutado_mes",
                         "label": "Avance ejecutado en el mes",
-                        "value": 13.71
+                        "value": 6.25
                     },
                     {
                         "key": "avance_programado_acumulado_mes",
@@ -396,12 +396,12 @@
                     {
                         "key": "avance_ejecutado_acumulado_mes",
                         "label": "Avance ejecutado acumulado en el mes",
-                        "value": 13.71
+                        "value": 6.25
                     },
                     {
                         "key": "situacion_actual",
                         "label": "Situación Actual",
-                        "value": "Adelantada"
+                        "value": "Normal"
                     },
                     {
                         "key": "resultados_inspeccion",
