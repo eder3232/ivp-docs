@@ -37,7 +37,11 @@
                 "key": "localidades",
                 "label": "Localidades",
                 "value": [
-                    ""
+                    "Llata Yanahuara",
+                    "Pallalmayo",
+                    "Calla calla",
+                    "Cuchuhuri",
+                    "Ccanaseta"
                 ]
             },
             {
@@ -195,7 +199,7 @@
                 "key": "convenio",
                 "label": "Convenio",
                 "value": {
-                    "numero": "03-20250-MPC-IVP",
+                    "numero": "03-2025-MPC-IVP",
                     "fecha_firma": {
                         "year": 2025,
                         "month": 3,
@@ -207,7 +211,7 @@
                 "key": "contrato",
                 "label": "Contrato",
                 "value": {
-                    "numero": "003-2025-IVP-CAYLLOMA",
+                    "numero": "005-2025-IVP-CAYLLOMA",
                     "fecha_firma": {
                         "year": 2025,
                         "month": 4,
