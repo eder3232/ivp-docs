@@ -44,18 +44,16 @@ Ficha Técnica de Monitoreo y Seguimiento Mensual
 *Periodo:*
 
 Desde:
-
 Dia: #data.at(2).value.at(13).value.day -
 Mes: #data.at(2).value.at(13).value.month -
 Año: #data.at(2).value.at(13).value.year
 
 Hasta:
-
 Dia: 30 -
 Mes: 4 -
 Año: 2025
 
-Fecha: 26/05/2025
+Fecha: 05/05/2025
 
 == Datos del Mantenimiento Periódico / Rutinario
 

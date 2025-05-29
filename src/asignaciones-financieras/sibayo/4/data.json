@@ -5,14 +5,14 @@
         "type": "rutinario",
         "value": [
             {
-                "key": "AR-683",
+                "key": "codigo_ruta",
                 "label": "Código de ruta",
-                "value": ""
+                "value": "AR-683"
             },
             {
                 "key": "nombre_tramo",
                 "label": "Nombre del tramo",
-                "value": ""
+                "value": "EMP. AR-111 (NUEVO SIBAYO) - TUTI EMP. AR-681 (DV. CHIVAY) (KM 32+252)"
             },
             {
                 "key": "tipologia",
