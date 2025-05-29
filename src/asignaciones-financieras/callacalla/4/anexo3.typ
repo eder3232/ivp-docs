@@ -233,7 +233,7 @@ Año: #data.at(2).value.at(0).value.fecha_firma.year
 
 === Contrato Nº
 
-Contrato numero: #data.at(2).value.at(0).value.numero
+Contrato numero: #data.at(2).value.at(1).value.numero
 
 Fecha de Suscripción:
 
@@ -539,7 +539,7 @@ Continuar con la ejecución conforme al cronograma aprobado, asegurando la calid
   figure(image("./images/supervision/during2.png", width: 100%), caption: [Durante]),
 )
 
-=== #data.at(5).value.at(1).label // actividades destacadas del supervisor
+// === #data.at(5).value.at(1).label // actividades destacadas del supervisor
 
 // #data.at(5).value.at(1).value
 
