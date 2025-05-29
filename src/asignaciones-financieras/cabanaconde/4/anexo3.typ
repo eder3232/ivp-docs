@@ -233,7 +233,7 @@ Año: #data.at(2).value.at(0).value.fecha_firma.year
 
 === Contrato Nº
 
-Contrato numero: #data.at(2).value.at(0).value.numero
+Contrato numero: #data.at(2).value.at(1).value.numero
 
 Fecha de Suscripción:
 
