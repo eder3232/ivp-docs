@@ -7,10 +7,25 @@
         "dni": 70004725,
         "titulo": "Bach. Ing."
     },
+    "inspector": {
+        "cargo": "Inspector de mantenimientos rutinarios - IVP - Caylloma",
+        "cargo_abreviado": "INS",
+        "nombres": "Eddy Eder",
+        "apellidos": "Sucapuca Cruz",
+        "dni": 70004725,
+        "titulo": "Bach. Ing."
+    },
     "gerente": {
         "cargo": "Gerente General del IVP - Caylloma",
         "nombres": "Tomas Pedro",
         "apellidos": "Samayani Vilcahuaman",
+        "dni": "",
+        "titulo": "Econ."
+    },
+    "gerente_encargado": {
+        "cargo": "(e) Gerente General del IVP - Caylloma",
+        "nombres": "Amaral",
+        "apellidos": "Ramos cueva",
         "dni": "",
         "titulo": "Econ."
     }
