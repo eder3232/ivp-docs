@@ -1,0 +1,543 @@
+[
+    {
+        "key": "datos_mantenimiento",
+        "label": "Datos del mantenimiento rutinario",
+        "type": "rutinario",
+        "value": [
+            {
+                "key": "codigo_ruta",
+                "label": "Código de ruta",
+                "value": "AR-683"
+            },
+            {
+                "key": "nombre_tramo",
+                "label": "Nombre del tramo",
+                "value": "EMP. AR-111 (NUEVO SIBAYO) - TUTI EMP. AR-681 (DV. CHIVAY) (KM 32+252)"
+            },
+            {
+                "key": "tipologia",
+                "label": "Tipología",
+                "value": {
+                    "tipo_I": 0,
+                    "tipo_II": 32252.0,
+                    "tipo_III": 0
+                }
+            },
+            {
+                "key": "longitud_tramo",
+                "label": "Longitud del tramo",
+                "value": 32252
+            },
+            {
+                "key": "nivel_servicio",
+                "label": "Nivel de servicio",
+                "value": "IIB"
+            },
+            {
+                "key": "localidades",
+                "label": "Localidades",
+                "value": [
+                    "Pueblo joven Sacsayhuaman",
+                    "Pueblo joven Satelital(Comunidad campesina de Chivay)",
+                    "Canocota",
+                    "Tuti",
+                    "Pampa de Hipo",
+                    "Sibayo"
+                ]
+            },
+            {
+                "key": "distritos",
+                "label": "Distritos",
+                "value": [
+                    "Chivay",
+                    "Tuti",
+                    "Sibayo"
+                ]
+            },
+            {
+                "key": "provincia",
+                "label": "Provincia",
+                "value": "Caylloma"
+            },
+            {
+                "key": "departamento",
+                "label": "Departamento",
+                "value": "Arequipa"
+            },
+            {
+                "key": "region_natural",
+                "label": "Región natural",
+                "value": [
+                    "Suni"
+                ]
+            }
+        ]
+    },
+    {
+        "key": "caracteristicas_tecnicas",
+        "label": "Características técnicas",
+        "value": [
+            {
+                "key": "velocidad_directriz",
+                "label": "Velocidad directriz",
+                "value": {
+                    "aplicable": true,
+                    "label": "",
+                    "value": 50,
+                    "unidad": "km/h"
+                }
+            },
+            {
+                "key": "tipo_superficie_rodadura",
+                "label": "Tipo de superficie de rodadura",
+                "value": {
+                    "aplicable": true,
+                    "label": "",
+                    "value": "Asfaltada"
+                }
+            },
+            {
+                "key": "ancho_calzada",
+                "label": "Ancho de calzada",
+                "value": {
+                    "aplicable": true,
+                    "label": "",
+                    "value": 5.5,
+                    "unidad": "m"
+                }
+            },
+            {
+                "key": "sobreanchos",
+                "label": "Sobreanchos",
+                "value": {
+                    "aplicable": true,
+                    "label": "",
+                    "value": 0.5,
+                    "unidad": "m"
+                }
+            },
+            {
+                "key": "radio_minimo_normal",
+                "label": "Radio mínimo normal",
+                "value": {
+                    "aplicable": true,
+                    "label": "",
+                    "value": 60,
+                    "unidad": "m"
+                }
+            },
+            {
+                "key": "radio_minimo_excepcional",
+                "label": "Radio mínimo excepcional",
+                "value": {
+                    "aplicable": true,
+                    "label": "",
+                    "value": 45,
+                    "unidad": "m"
+                }
+            },
+            {
+                "key": "pendiente_maxima",
+                "label": "Pendiente máxima",
+                "value": {
+                    "aplicable": true,
+                    "label": "",
+                    "value": 8,
+                    "unidad": "%"
+                }
+            },
+            {
+                "key": "pendiente_minima",
+                "label": "Pendiente mínima",
+                "value": {
+                    "aplicable": true,
+                    "label": "",
+                    "value": 1,
+                    "unidad": "%"
+                }
+            },
+            {
+                "key": "pendiente_maxima_excepcional",
+                "label": "Pendiente máxima excepcional",
+                "value": {
+                    "aplicable": true,
+                    "label": "",
+                    "value": 10,
+                    "unidad": "%"
+                }
+            },
+            {
+                "key": "bombeo",
+                "label": "Bombeo",
+                "value": {
+                    "aplicable": true,
+                    "label": "",
+                    "value": 2,
+                    "unidad": "%"
+                }
+            },
+            {
+                "key": "peralte",
+                "label": "Peralte",
+                "value": {
+                    "aplicable": true,
+                    "label": "",
+                    "value": 6,
+                    "unidad": "%"
+                }
+            },
+            {
+                "key": "seccion_de_cuneta",
+                "label": "Sección de cuneta",
+                "value": {
+                    "aplicable": true,
+                    "label": "",
+                    "value": "Triangular"
+                }
+            }
+        ]
+    },
+    {
+        "key": "datos_generales",
+        "label": "Datos generales",
+        "value": [
+            {
+                "key": "convenio",
+                "label": "Convenio",
+                "value": {
+                    "numero": "03-2025-MPC-IVP",
+                    "fecha_firma": {
+                        "year": 2025,
+                        "month": 3,
+                        "day": 12
+                    }
+                }
+            },
+            {
+                "key": "contrato",
+                "label": "Contrato",
+                "value": {
+                    "numero": "004-2024-IVP-Caylloma",
+                    "fecha_firma": {
+                        "year": 2025,
+                        "month": 4,
+                        "day": 14
+                    }
+                }
+            },
+            {
+                "key": "contratista",
+                "label": "Contratista",
+                "value": "PLATERS MANAGEMENT S.A.C."
+            },
+            {
+                "key": "monto_contrato",
+                "label": "Monto del contrato",
+                "value": {
+                    "monto": 165130.4,
+                    "moneda": "",
+                    "incluye_igv": true
+                }
+            },
+            {
+                "key": "monto_modificado",
+                "label": "Monto modificado",
+                "value": {
+                    "se_modifico_monto": false,
+                    "label": "Sin modificación",
+                    "monto": 0,
+                    "moneda": "soles",
+                    "incluye_igv": true
+                }
+            },
+            {
+                "key": "plazo_ejecucion",
+                "label": "Plazo de ejecución",
+                "value": {
+                    "numero_dias": 240,
+                    "tipo": "dias calendarios"
+                }
+            },
+            {
+                "key": "plazo_modificado",
+                "label": "Plazo modificado",
+                "value": {
+                    "se_modifico_plazo": false,
+                    "label": "Sin modificación",
+                    "numero_dias": 0,
+                    "tipo": "dias calendarios"
+                }
+            },
+            {
+                "key": "personal_clave",
+                "label": "Personal clave",
+                "value": [
+                    {
+                        "nombres": "Gerber Frank",
+                        "apellidos": "Platero Sandoval",
+                        "cargo": "Jefe de mantenimiento",
+                        "titulo": "Ing.",
+                        "dni": "72753026",
+                        "cip_code": "",
+                        "other": ""
+                    }
+                ]
+            },
+            {
+                "key": "contrato_supervision",
+                "label": "Contrato de supervisión",
+                "value": {
+                    "se_contrato_supervision": false,
+                    "label": "Sin contrato de supervisión",
+                    "numero": "",
+                    "fecha_firma": {
+                        "day": 0,
+                        "month": 0,
+                        "year": 0
+                    }
+                }
+            },
+            {
+                "key": "documento_designacion_inspector",
+                "label": "Documento de designación del inspector",
+                "value": {
+                    "se_designo_inspector": true,
+                    "label": "Con designación de inspector",
+                    "numero": "MEMORANDUM-N°-001-2025-IVP-CAYLLOMA",
+                    "fecha_firma": {
+                        "day": 1,
+                        "month": 4,
+                        "year": 2025
+                    }
+                }
+            },
+            {
+                "key": "nombre_supervisor_inspector",
+                "label": "Nombre del supervisor / inspector del servicio",
+                "value": {
+                    "se_designo_inspector": true,
+                    "label": "Con designación de inspector",
+                    "titulo": "Bach. Ing.",
+                    "nombres": "Eddy Eder",
+                    "dni": 70004725,
+                    "apellidos": "Sucapuca Cruz"
+                }
+            },
+            {
+                "key": "Monto_contrato_supervision",
+                "label": "Monto del contrato de supervisión",
+                "value": {
+                    "se_contrato_supervision": false,
+                    "label": "Sin contrato de supervisión",
+                    "monto": 0,
+                    "moneda": "soles",
+                    "incluye_igv": true
+                }
+            },
+            {
+                "key": "fecha_entrega_terreno",
+                "label": "Fecha de entrega del terreno",
+                "value": {
+                    "year": 2025,
+                    "month": 4,
+                    "day": 14
+                }
+            },
+            {
+                "key": "fecha_incio_servicio",
+                "label": "Fecha de inicio del servicio",
+                "value": {
+                    "year": 2025,
+                    "month": 4,
+                    "day": 15
+                }
+            },
+            {
+                "key": "fecha_termino_plazo_contractual",
+                "label": "Fecha de término del plazo contractual",
+                "value": {
+                    "day": 10,
+                    "month": 12,
+                    "year": 2025
+                }
+            },
+            {
+                "key": "fecha_termino_vigente",
+                "label": "Fecha de término vigente",
+                "value": {
+                    "se_modifico_plazo": false,
+                    "label": "Sin modificación",
+                    "day": 0,
+                    "month": 0,
+                    "year": 0
+                }
+            }
+        ]
+    },
+    {
+        "key": "situacion_servicio_mantenimiento_vial",
+        "label": "Situación del servicio de mantenimiento vial",
+        "value": [
+            {
+                "key": "aspecto_tecnico",
+                "label": "Aspecto técnico",
+                "value": [
+                    {
+                        "key": "descripcion_situacion_mantenimiento",
+                        "label": "Descripción de la situación del mantenimiento",
+                        "value": "",
+                        "img": ""
+                    },
+                    {
+                        "key": "avance_programado_vigente_mes",
+                        "label": "Avance programado vigente en el mes",
+                        "value": 6.66
+                    },
+                    {
+                        "key": "avance_ejecutado_mes",
+                        "label": "Avance ejecutado en el mes",
+                        "value": 5.92
+                    },
+                    {
+                        "key": "avance_programado_acumulado_mes",
+                        "label": "Avance programado acumulado en el mes",
+                        "value": 6.66
+                    },
+                    {
+                        "key": "avance_ejecutado_acumulado_mes",
+                        "label": "Avance ejecutado acumulado en el mes",
+                        "value": 5.92
+                    },
+                    {
+                        "key": "situacion_actual",
+                        "label": "Situación Actual",
+                        "value": "Atrasada"
+                    },
+                    {
+                        "key": "resultados_inspeccion",
+                        "label": "Resultados de inspección y control de calidad del trabajo ejecutado",
+                        "value": ""
+                    },
+                    {
+                        "key": "datos_personal_contratista",
+                        "label": "Datos del personal del contratista",
+                        "value": [
+                            {
+                                "nombres": "Luzmila Martha",
+                                "apellidos": "Mamani Mamani",
+                                "sexo": "F",
+                                "edad": 42,
+                                "grado_instruccion": "Secundaria completa",
+                                "cantidad_hijos": 2
+                            },
+                            {
+                                "nombres": "Jeanneth Nely",
+                                "apellidos": "Sarayasi Cutipa",
+                                "sexo": "F",
+                                "edad": 31,
+                                "grado_instruccion": "Secundaria completa",
+                                "cantidad_hijos": 2
+                            },
+                            {
+                                "nombres": "Ana Leovigilda",
+                                "apellidos": "Cutipa Caceres",
+                                "sexo": "F",
+                                "edad": 47,
+                                "grado_instruccion": "Secundaria completa",
+                                "cantidad_hijos": 1
+                            }
+                        ]
+                    },
+                    {
+                        "key": "conclusiones_recomendaciones",
+                        "label": "Conclusiones y recomendaciones",
+                        "value": [
+                            {
+                                "key": "conclusiones",
+                                "label": "Conclusiones",
+                                "value": "Durante el periodo evaluado, las actividades de mantenimiento rutinario se han desarrollado con normalidad, cumpliendo en términos generales con lo programado. No se han identificado incidencias técnicas relevantes que afecten el avance o la calidad del servicio."
+                            },
+                            {
+                                "key": "recomendaciones",
+                                "label": "Recomendaciones",
+                                "value": "Se recomienda continuar con la ejecución conforme a lo establecido en la programación vigente, manteniendo los niveles actuales de supervisión y control. Asimismo, se sugiere mantener la coordinación entre las partes involucradas para asegurar la continuidad del servicio sin contratiempos."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "aspecto_economico",
+                "label": "Aspecto económico",
+                "value": [
+                    {
+                        "key": "cuadro_resumen_valorizaciones",
+                        "label": "Cuadro resumen de valorizaciones",
+                        "value": 0
+                    },
+                    {
+                        "key": "monto_valorizado_mes",
+                        "label": "Monto valorizado en el mes",
+                        "value": 2225.51
+                    },
+                    {
+                        "key": "monto_acumulado",
+                        "label": "Monto acumulado",
+                        "value": 2225.51
+                    },
+                    {
+                        "key": "observaciones",
+                        "label": "Observaciones",
+                        "value": "Sin observaciones"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "key": "area_supervision_inspeccion",
+        "label": "Área de supervisión / inspección",
+        "value": [
+            {
+                "key": "descripcion_situacion_supervision_inspeccion",
+                "label": "Descripción de la situación de supervisión / inspección",
+                "value": ""
+            },
+            {
+                "key": "actividades_destacadas_supervisor_inspector",
+                "label": "Actividades destacadas del supervisor / inspector",
+                "value": ""
+            },
+            {
+                "key": "logistica_equipos_empleados",
+                "label": "Logística y equipos empleados",
+                "value": {
+                    "day": 0,
+                    "month": 0,
+                    "year": 0
+                }
+            },
+            {
+                "key": "recomendaciones",
+                "label": "Recomendaciones",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "key": "informacion_complementaria",
+        "label": "Información complementaria",
+        "value": [
+            {
+                "key": "fotografias",
+                "label": "Fotografías de la supervisión del mantenimiento vial",
+                "value": []
+            },
+            {
+                "key": "informacion_adicional",
+                "label": "Documentos de la supervisión del mantenimiento vial",
+                "value": []
+            }
+        ]
+    }
+]
