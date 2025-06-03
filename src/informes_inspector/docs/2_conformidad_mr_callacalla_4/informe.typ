@@ -36,7 +36,7 @@
 
 //generales
 #let numero_documento = 2
-#let date_day = 28
+#let date_day = 6
 #let date_month = 5
 #let date_year = 2025
 #let asunto = (
@@ -68,7 +68,7 @@
 #let emisor_cargo = emisor.cargo
 #let emisor_abreviated = emisor.cargo_abreviado
 
-#let receptor = personal.gerente_encargado
+#let receptor = personal.jefe_operaciones
 #let receptor_full_name = full_name(receptor.nombres, receptor.apellidos)
 #let receptor_cargo = receptor.cargo
 
@@ -226,7 +226,6 @@ En cumplimiento de las funciones de inspección de la ejecución del servicio de
   + Copia de acta de entrega de terreno. *Si presentó*
   + Copia de Contrato y contrato de Consorcio en caso corresponda. *No corresponde*
   + Carta de Autorización de abono (CCI). *Si presentó*
-  + Certificado de No Adeudo de los personales de campo suscrito por el responsable del área usuaria y alguna autoridad de la zona (presidente de la Comunidad y alcalde del Centro Poblado o Alcalde Distrital) *No corresponde*
 
 == Conclusiones
 
@@ -245,16 +244,16 @@ Adjunto:
 
 
 Atentamente,
-\
-\
-\
+// \
+// \
+// \
 
 
-#line(length: 60%)
+// #line(length: 60%)
 
-#emisor_cargo
+// #emisor_cargo
 
-#emisor_full_name
+// #emisor_full_name
 
 
 
