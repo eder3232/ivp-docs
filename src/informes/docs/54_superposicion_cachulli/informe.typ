@@ -6,6 +6,8 @@
 
 #import "utils/header.typ" as header
 
+#let datos_coordenadas = csv("datos_coordenadas.csv", delimiter: " ")
+
 #header
 
 
@@ -23,9 +25,17 @@ Dicha superposición es de carácter *grave*, ya que se evidencia a lo largo de 
 
 
 #figure(
-  image("./images/image.png", width: 100%),
+  image("./images/image.png", width: 60%),
   caption: "Imagen que muestra la superposición del predio con la carretera vecinal AR-683.",
 )
+
+Los puntos señalados en la tabla corresponden a las coordenadas UTM (Zona 19S) donde se ha identificado una intersección directa entre el polígono del predio y el eje de la carretera vecinal AR-683. No obstante, al tratarse de un polígono cerrado que representa un área, la superposición no se limita únicamente a los puntos mencionados, sino que abarca toda la porción del área delimitada por dicho polígono que intersecta o invade la faja de dominio vial de la carretera mencionada. En ese sentido, la afectación incluye tanto los puntos de cruce como el área contenida entre ellos que se superpone a la vía.
+
+#table(
+  columns: 4,
+  ..datos_coordenadas.flatten(),
+)
+
 
 == Conclusión
 
