@@ -244,17 +244,17 @@ Adjunto:
 
 
 Atentamente,
-// \
-// \
-// \
+\
+\
+\
+\
+\
 
+#line(length: 60%)
 
-// #line(length: 60%)
+#emisor_cargo
 
-// #emisor_cargo
-
-// #emisor_full_name
-
+#emisor_full_name
 
 
 ///////////////////////////////////////

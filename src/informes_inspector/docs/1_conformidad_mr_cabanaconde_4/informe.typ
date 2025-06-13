@@ -244,12 +244,13 @@ Adjunto:
 
 
 Atentamente,
-// \
-// \
-// \
+\
+\
+\
+\
+\
 
-
-// #line(length: 60%)
+#line(length: 60%)
 
 #emisor_cargo
 
