@@ -124,7 +124,7 @@
 ///////////////////////////////////////
 ///////////////////////////////////////
 Me dirijo a usted, para hacer de conocimiento que este despacho ha efectuado la revisión de los documentos presentados por la Empresa #data.at(2).value.at(2).value
-quien realizo las actividades de mantenimiento vial rutinario del camino vecinal #data.at(0).value.at(1).value, según el contrato indicado en la referencia, correspondiente al mes de Agosto de 2024
+quien realizo las actividades de mantenimiento vial rutinario del camino vecinal #data.at(0).value.at(1).value, según el contrato indicado en la referencia, correspondiente al mes de Abril de 2025.
 (Valorización N°#numero_valorizacion).
 
 Para la conformidad, se ha verificado que el informe cumpla con los requisitos mínimos de
