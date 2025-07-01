@@ -4,7 +4,7 @@
 
 == 1. DENOMINACIÓN DE LA CONTRATACIÓN
 
-Contratación de (01) persona natural, para realizar labores de *ASISTENTE TÉCNICO PARA LA JEFATURA DE OPERACIONES DEL INSTITUTO VIAL PROVINCIAL CAYLLOMA*.
+Contratación de (01) persona natural, para realizar labores de *INSPECTOR DE MANTENIMIENTO PARA LA JEFATURA DE OPERACIONES DEL INSTITUTO VIAL PROVINCIAL CAYLLOMA*.
 
 #line(length: 100%)
 
@@ -27,36 +27,66 @@ vi. El artículo 102 y la Centésima Décima Disposición Complementaria Final d
 
 == 3. FINALIDAD PÚBLICA
 
-La Oficina del IVP-Caylloma tiene como finalidad ejecutar acciones de gestión vial de los caminos vecinales o rurales en la jurisdicción provincial, entendida como el proceso de planificar y ejecutar las acciones de construcción, mejoramiento, rehabilitación, mantenimiento (conservación) y operación de la infraestructura vial, siendo la necesidad de realizar la contratación de un Asistente Técnico para colaborar con la Jefatura de Operaciones del Instituto Vial Provincial Caylloma.
+La Oficina del IVP-Caylloma tiene como finalidad ejecutar acciones de gestión vial de los caminos vecinales o rurales en la jurisdicción provincial, entendida como el proceso de planificar y ejecutar las acciones de construcción, mejoramiento, rehabilitación, mantenimiento (conservación) y operación de la infraestructura vial, siendo la necesidad de realizar la contratación de un Inspector de Mantenimiento para supervisar las actividades de mantenimiento rutinario y complementarias del Instituto Vial Provincial Caylloma.
 
 #line(length: 100%)
 
 == 4. OBJETIVOS DE LA CONTRATACIÓN
 
-La contratación mediante Orden de Servicio de (01) una persona natural para asistir en las actividades técnicas de la Jefatura de Operaciones del Instituto Vial Provincial Caylloma, a fin de contribuir a la eficiencia en las acciones para una adecuada gestión vial de los caminos vecinales.
+La contratación mediante Orden de Servicio de (01) una persona natural para realizar la supervisión técnica, económica, administrativa y legal de la ejecución de las actividades de mantenimiento rutinario y complementarias del Instituto Vial Provincial Caylloma, a fin de garantizar la calidad, el cumplimiento de los plazos y el buen uso de los recursos públicos en estricto apego a la normativa vigente.
 
 #line(length: 100%)
 
 == 5. ALCANCE Y DESCRIPCIÓN DEL SERVICIO
 
-El profesional de asistencia técnica para la Jefatura de Operaciones realizará, entre otras, las siguientes actividades:
+El Inspector de Mantenimiento realizará, entre otras, las siguientes actividades:
 
-- Apoyar en la elaboración y revisión de expedientes técnicos para los mantenimientos rutinarios y periódicos.
-- Colaborar y participar en visitas e inspecciones viales de campo junto al Jefe de Operaciones.
-- Contribuir en el seguimiento, monitoreo y control de los avances de las actividades contratadas en los caminos vecinales, en coordinación con la Jefatura de Operaciones y el área respectiva.
-- Recopilar y analizar información sobre problemas comunes en los trabajos de conservación vial, proponiendo mejoras en coordinación con la Jefatura de Operaciones, contratistas y supervisores.
-- Elaborar informes técnicos, reportes de avance y otra documentación requerida por la Jefatura de Operaciones.
-- Coordinar y dar seguimiento a los requerimientos de información de otras áreas o entidades relacionados con las operaciones viales.
-- Otras actividades de apoyo que le asigne la Jefatura de Operaciones o la Gerencia General, relacionadas con el ámbito de la gestión vial.
+*5.1 Funciones Previas al Inicio de los Trabajos:*
+- Realizar visitas de reconocimiento a los tramos donde se ejecutarán las actividades.
+- Coordinar con el contratista estableciendo los mecanismos de comunicación y coordinación para el desarrollo de los trabajos.
+- Revisar y aprobar, si corresponde, el cronograma detallado de ejecución presentado por el contratista.
+- Verificar la disponibilidad de recursos del contratista (personal clave, maquinaria, equipos y materiales) antes del inicio de los trabajos.
+- Participar en la entrega del terreno asegurando que sea entregado en condiciones adecuadas.
+
+*5.2 Funciones Durante la Ejecución de los Trabajos (Supervisión Continua):*
+- *Control de Calidad:*
+  - Verificar que los materiales cumplan con las especificaciones técnicas.
+  - Supervisar los procesos constructivos y la aplicación de las normas técnicas.
+  - Asegurar la correcta ejecución de actividades como limpieza de calzada y cunetas, eliminación de derrumbes, bacheo, resane de taludes, entre otros.
+  - Realizar o solicitar ensayos de control de calidad necesarios.
+- *Control del Avance Físico y Económico:*
+  - Verificar el avance real comparado con el cronograma.
+  - Medir y cuantificar las actividades ejecutadas para la elaboración de valorizaciones.
+  - Aprobar las valorizaciones presentadas por el contratista, previa verificación del metrado y calidad.
+- *Control del Cumplimiento Contractual:*
+  - Asegurar el cumplimiento de todas las cláusulas del contrato, plazos, especificaciones técnicas, normas de SST y consideraciones ambientales.
+  - Gestionar y resolver controversias o problemas durante la ejecución.
+  - Notificar al contratista sobre incumplimientos o deficiencias detectadas.
+- *Seguridad y Salud en el Trabajo (SST):*
+  - Verificar que el contratista implemente y cumpla las normas de SST.
+  - Verificar el uso adecuado de equipos de protección personal (EPP).
+- *Gestión Ambiental:*
+  - Verificar que las actividades respeten las medidas de mitigación ambiental establecidas.
+  - Asegurar la adecuada disposición de materiales excedentes y desechos.
+- *Elaboración de Informes:*
+  - Redactar informes periódicos sobre el avance, problemas detectados, soluciones aplicadas y recomendaciones.
+  - Mantener un Cuaderno de Obra o Libro de Ocurrencias registrando todas las incidencias relevantes.
+- *Administración de Contratos:*
+  - Gestionar ampliaciones de plazo, adicionales, reducciones o modificaciones contractuales justificadas.
+  - Emitir conformidades de servicios y valorizaciones.
+
+*5.3 Funciones en la Finalización de los Trabajos:*
+- Inspeccionar que todas las actividades contractuales hayan sido completadas según las especificaciones.
+- Participar en el acto de recepción de las actividades, verificando que no existan observaciones pendientes.
+- Participar en el proceso de liquidación económica del contrato, revisando metrados finales y pagos correspondientes.
 
 #line(length: 100%)
 
 == 6. REQUISITOS DEL PROVEEDOR
 
 - Ser persona natural.
-- Egresado universitario y/o bachiller en las carreras de ingeniería civil, arquitectura, y carreras afines.
-- Experiencia general de 06 meses en el sector público o privado, contados a partir de la condición de egresado o bachiller.
-- Experiencia específica no menor a 02 meses en funciones similares de asistencia técnica o apoyo en proyectos de infraestructura vial.
+- Egresado universitario y/o bachiller en las carreras de ingeniería civil.
+- Experiencia general de 18 meses en el sector público o privado, contados a partir de la condición de egresado o bachiller.
 - Contar con RUC activo y vigente.
 - Contar con RNP activo y vigente (si aplica según el monto y tipo de servicio).
 - Contar con código de cuenta interbancario (CCI).
@@ -68,32 +98,32 @@ El profesional de asistencia técnica para la Jefatura de Operaciones realizará
 a. *LUGAR DE LA PRESTACIÓN:*
 Dentro de la jurisdicción del IVP-Caylloma, pudiendo incluir trabajo de campo según las necesidades del servicio.
 b. *PLAZO DE EJECUCIÓN DEL SERVICIO:*
-*30 días calendario*, contados a partir del *01 de julio de 2025*.
+*30 días calendarios*.
 
 #line(length: 100%)
 
 == 8. RESULTADOS ESPERADOS
 
-El servicio brindado como Asistente Técnico para la Jefatura de Operaciones del Instituto Vial Provincial Caylloma contribuirá al cumplimiento eficiente de las funciones del área, facilitando la gestión de los caminos vecinales y la toma de decisiones, de acuerdo a la normatividad y directivas vigentes.
+El servicio brindado como Inspector de Mantenimiento para el Instituto Vial Provincial Caylloma contribuirá al cumplimiento eficiente de las funciones de supervisión técnica, económica, administrativa y legal de las actividades de mantenimiento rutinario y complementarias, garantizando la calidad de los trabajos, el cumplimiento de los plazos contractuales y el buen uso de los recursos públicos, de acuerdo a la normatividad vigente de Provias Descentralizado y el Sistema Nacional de Contrataciones del Estado.
 
 #line(length: 100%)
 
 == 9. MEDIDAS DE CONTROL DURANTE LA EJECUCIÓN CONTRACTUAL
 
-La supervisión y coordinación del servicio estará a cargo del Jefe de Operaciones del IVP-Caylloma, quien designará a un responsable (si fuera necesario) y emitirá los informes de conformidad y/o observaciones sobre los entregables. El contratista deberá presentar un informe final de actividades al concluir el servicio.
+La supervisión y coordinación del servicio estará a cargo del Jefe de Operaciones del IVP-Caylloma, quien será el responsable directo de la gestión del Inspector de Mantenimiento y emitirá los informes de conformidad y/o observaciones sobre los entregables. El Inspector deberá presentar informes periódicos de supervisión y un informe final de actividades al concluir el servicio, incluyendo el Cuaderno de Obra o Libro de Ocurrencias.
 
 #line(length: 100%)
 
 == 10. VALOR REFERENCIAL
 
-S/. *2,500.00* (Dos Mil Quinientos y 00/100 SOLES) incluye impuestos de ley.
+S/. *2,200.00* (Dos Mil Doscientos y 00/100 SOLES) incluye impuestos de ley.
 
 #line(length: 100%)
 
 == 11. FORMA DE PAGO
 
 - El pago se realizará en *una única armada*, previa presentación del informe de actividades correspondiente a la Jefatura de Operaciones y su conformidad, el cual deberá ser aprobado por el área de Administración o quien haga sus veces en el Instituto Vial Provincial de Caylloma.
-- El pago será de S/. *2,500.00*, efectuándose al finalizar el servicio y una vez aprobado el informe de conformidad.
+- El pago será de S/. *2,200.00*, efectuándose al finalizar el servicio y una vez aprobado el informe de conformidad.
 - El Recibo por Honorarios deberá ser emitido en moneda nacional a nombre del Instituto Vial Provincial de Caylloma, cumpliendo con todos los requisitos exigidos por la SUNAT.
 - En caso de contar con autorización de suspensión del impuesto a la renta, el contratista deberá adjuntar el formulario emitido por la SUNAT en cada pago.
 
@@ -124,7 +154,7 @@ El proveedor será responsable de los errores u omisiones y por los vicios ocult
 
 == 14. CONFORMIDAD DE SERVICIO
 
-Será otorgada por el Jefe de Operaciones del IVP-Caylloma, previa presentación del informe final de actividades, y deberá ser aprobada por la OFICINA DE ADMINISTRACIÓN y/o la GERENCIA GENERAL DEL IVP-CAYLLOMA.
+Será otorgada por el Jefe de Operaciones del IVP-Caylloma, previa presentación del informe final de actividades y el Cuaderno de Obra o Libro de Ocurrencias, y deberá ser aprobada por la OFICINA DE ADMINISTRACIÓN y/o la GERENCIA GENERAL DEL IVP-CAYLLOMA.
 
 #line(length: 100%)
 

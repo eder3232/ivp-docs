@@ -8,11 +8,11 @@
 
 // Valores a cambiar para cada documento
 
-#let numero_documento = 12
-#let date_day = 15
-#let date_month = 5
+#let numero_documento = 13
+#let date_day = 27
+#let date_month = 6
 #let date_year = 2025
-#let asunto = "REQUERIMIENTO DE SERVICIO DE ASISTENTE TÉCNICO PARA LA UNIDAD DE OPERACIONES"
+#let asunto = "REQUERIMIENTO DE SERVICIO DE INSPECTOR DE MANTENIMIENTO PARA LA UNIDAD DE OPERACIONES"
 
 
 //Funciones necesarias para el correcto funcionamiento del documento
@@ -72,28 +72,36 @@
   align: left,
   // frame:false,
   stroke: none,
-  [A], [:], [
+  [A],
+  [:],
+  [
     #receptor_full_name
     \
     *#receptor_cargo*
   ],
-  [De], [:], [
+
+  [De],
+  [:],
+  [
     #emisor_full_name
     \
     *#emisor_cargo*
   ],
-  [Asunto], [:], [
+
+  [Asunto],
+  [:],
+  [
     #asunto
   ],
-  [Fecha], [:], [
+
+  [Fecha],
+  [:],
+  [
     #full_date
   ],
 )
 
-#line(
-  length: 100%,
-  stroke: (thickness: 2pt),
-)
+#line(length: 100%, stroke: (thickness: 2pt))
 
 
 ///////////////////////////////////////
@@ -101,7 +109,7 @@
 
 
 
-Por medio de la presente, se solicita la contratación del servicio de *Asistente Técnico* para la Unidad de Operaciones del Instituto Vial Provincial Caylloma, con la finalidad de brindar apoyo en las actividades técnicas y administrativas relacionadas al mantenimiento vial.
+Por medio de la presente, se solicita la contratación del servicio de *Inspector de Mantenimiento* para la Unidad de Operaciones del Instituto Vial Provincial Caylloma, con la finalidad de brindar apoyo en las actividades técnicas y administrativas relacionadas al mantenimiento vial.
 
 Los detalles del servicio requerido se muestran en el siguiente cuadro:
 
@@ -110,25 +118,19 @@ Los detalles del servicio requerido se muestran en el siguiente cuadro:
   align: horizon,
   inset: 5pt,
   stroke: 1pt + black,
-  table.header(
-    [CANT.],
-    [UNID.],
-    [DESCRIPCIÓN],
-    [COSTO ],
-    [TOTAL],
-  ),
+  table.header([CANT.], [UNID.], [DESCRIPCIÓN], [COSTO ], [TOTAL]),
 
   [01],
   [SERV.],
   [
-    CONTRATACIÓN DE SERVICIO DE ASISTENTE TÉCNICO PARA LA UNIDAD DE OPERACIONES DEL INSTITUTO VIAL PROVINCIAL CAYLLOMA
+    CONTRATACIÓN DE SERVICIO DE INSPECTOR DE MANTENIMIENTO PARA LA UNIDAD DE OPERACIONES DEL INSTITUTO VIAL PROVINCIAL CAYLLOMA
   ],
-  [S/ 2,500.00],
-  [S/ 2,500.00],
+  [S/ 2,200.00],
+  [S/ 2,200.00],
 )
 
 == Justificación:
 
-El presente requerimiento responde a la necesidad de contar con apoyo técnico especializado para las actividades de supervisión, monitoreo y gestión del mantenimiento vial que realiza la Unidad de Operaciones del Instituto Vial Provincial Caylloma, lo cual permitirá mejorar la eficiencia en la ejecución de las intervenciones programadas.
+El presente requerimiento responde a la necesidad de contar con un Inspector de Mantenimiento que supervise las actividades de mantenimiento vial que realiza el Instituto Vial Provincial Caylloma, garantizando el cumplimiento de los estándares de calidad y la correcta ejecución de las intervenciones programadas.
 
 Atentamente,
