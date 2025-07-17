@@ -1,0 +1,15 @@
+#let numero_documento = 62
+
+#let date_day = 10
+#let date_month = 7
+#let date_year = 2025
+
+#let asunto = "Consulta de información técnica de vias - Juan Supo Ccama"
+
+#let referencia = (
+  "HOJA DE COORDINACION N.º 032-2025-SGOPCU-GDUR/MPC",
+  //   "Requerimiento de Servicios SERV-REQ-N.º012-2025-IVP-
+  // CAYLLOMA-JO",
+  // "Orden de Servicio N° 011-2025",
+)
+
