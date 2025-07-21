@@ -404,7 +404,7 @@
           {
             "key": "situacion_actual",
             "label": "Situación Actual",
-            "value": "Normal"
+            "value": "Atrasado"
           },
           {
             "key": "resultados_inspeccion",

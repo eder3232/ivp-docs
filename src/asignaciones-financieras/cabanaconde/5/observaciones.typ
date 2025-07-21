@@ -36,7 +36,6 @@
 == #text(fill: blue, weight: "bold")[Cargas de Trabajo]
 
 - *Problema*: Los valores numéricos no caben en las celdas de Excel, mostrándose como `####` en los documentos impresos
-- *Solución*: Ajustar el ancho de las columnas o el formato de las celdas para que los números se muestren completamente
 - *Actividad MR102*: Se redujo de 245.04 a 240.019
   - Se debe modificar las cargas de trabajo por actividad de bacheo
   - Actualizar el cuadro resumen correspondiente
