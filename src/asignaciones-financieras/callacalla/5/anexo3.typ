@@ -75,7 +75,7 @@ Tipo III: #tipologia.tipo_III Km
 
 === Longitud del tramo
 
-#datos_mantenimiento.value.find(e => e.key == "longitud_tramo").value
+#datos_mantenimiento.value.find(e => e.key == "longitud_tramo").value m
 
 === Nivel de Servicio
 
@@ -538,16 +538,16 @@ Continuar con la ejecución conforme al cronograma aprobado, asegurando la calid
   columns: (1fr, 1fr),
   align: (horizon + center, horizon + center),
   gutter: 5mm,
-  figure(image("./images/supervision/before.jpeg", width: 100%), caption: [Antes]),
-  figure(image("./images/supervision/after.jpeg", width: 100%), caption: [Despues]),
+  figure(image("./images/supervision/before.jpg", width: 100%), caption: [Antes]),
+  figure(image("./images/supervision/after.jpg", width: 100%), caption: [Despues]),
 )
 
 #grid(
   columns: (1fr, 1fr),
   align: (horizon + center, horizon + center),
   gutter: 5mm,
-  figure(image("./images/supervision/during1.jpeg", width: 100%), caption: [Durante]),
-  figure(image("./images/supervision/during2.jpeg", width: 100%), caption: [Durante]),
+  figure(image("./images/supervision/during1.jpg", width: 100%), caption: [Durante]),
+  figure(image("./images/supervision/during2.jpg", width: 100%), caption: [Durante]),
 )
 
 // === #data.at(5).value.at(1).label // actividades destacadas del supervisor

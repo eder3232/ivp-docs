@@ -384,22 +384,22 @@
                     {
                         "key": "avance_programado_vigente_mes",
                         "label": "Avance programado vigente en el mes",
-                        "value": 6.25
+                        "value": 13.05
                     },
                     {
                         "key": "avance_ejecutado_mes",
                         "label": "Avance ejecutado en el mes",
-                        "value": 6.25
+                        "value": 12.91
                     },
                     {
                         "key": "avance_programado_acumulado_mes",
                         "label": "Avance programado acumulado en el mes",
-                        "value": 6.25
+                        "value": 18.92
                     },
                     {
                         "key": "avance_ejecutado_acumulado_mes",
                         "label": "Avance ejecutado acumulado en el mes",
-                        "value": 6.25
+                        "value": 19.06
                     },
                     {
                         "key": "situacion_actual",
@@ -471,12 +471,12 @@
                     {
                         "key": "monto_valorizado_mes",
                         "label": "Monto valorizado en el mes",
-                        "value": 3719.05
+                        "value": 7686.04
                     },
                     {
                         "key": "monto_acumulado",
                         "label": "Monto acumulado",
-                        "value": 3719.05
+                        "value": 11405.09
                     },
                     {
                         "key": "observaciones",
