@@ -27,7 +27,7 @@
 )
 
 #let referencia = (
-  "Informe N.º 001-2025-IVP-CAYLLOMA-INS",
+  "Informe N.º 007-2025-IVP-CAYLLOMA-INS",
 )
 
 //Funciones necesarias para el correcto funcionamiento del documento
@@ -94,31 +94,42 @@
   align: left,
   // frame:false,
   stroke: none,
-  [A], [:], [
+  [A],
+  [:],
+  [
     #receptor_full_name
     \
     *#receptor_cargo*
   ],
-  [De], [:], [
+
+  [De],
+  [:],
+  [
     #emisor_full_name
     \
     *#emisor_cargo*
   ],
-  [Asunto], [:], [
+
+  [Asunto],
+  [:],
+  [
     #asunto
   ],
-  [Fecha], [:], [
+
+  [Fecha],
+  [:],
+  [
     #full_date
   ],
-  [Referencia], [:], [
+
+  [Referencia],
+  [:],
+  [
     #referencia.at(0)
   ],
 )
 
-#line(
-  length: 100%,
-  stroke: (thickness: 2pt),
-)
+#line(length: 100%, stroke: (thickness: 2pt))
 
 
 ///////////////////////////////////////
