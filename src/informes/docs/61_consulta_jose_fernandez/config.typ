@@ -1,6 +1,6 @@
 #let numero_documento = 61
 
-#let date_day = 14
+#let date_day = 10
 #let date_month = 7
 #let date_year = 2025
 
